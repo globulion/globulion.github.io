@@ -12,15 +12,17 @@ rss: RSS
 ### Build settings
 
 url: https://globulion.github.io
-baseurl: /jekyll-blog-demo
+#baseurl: /
 
 permalink: pretty
 
 theme: minima
+#remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 collections:
   tools:
