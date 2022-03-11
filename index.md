@@ -1,5 +1,5 @@
 ---
-title: Quantum Chemistry of Condensed Phase Systems
+title: 
 layout: home
 ---
 
