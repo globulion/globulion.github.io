@@ -1,23 +1,23 @@
 ---
-title: Tools
-description: What you need to make a static site that runs locally and on GitHub Pages
+title: Methodology
+description: Describes methods developed by me
 ---
 
-This page showcases how to list items in a specific collection.
+I developed the following methods:
 
 <ul>
-    {% for tool in site.methods %}
+    {% for method in site.methods %}
         <li>
             <h2>
-                <a href="{{ tool.url | relative_url }}">
-                    {{ tool.title }}
+                <a href="{{ method.url | relative_url }}">
+                    {{ method.title }}
                 </a>
             </h2>
 
             <p>
-                <i>{{ tool.description }}</i>
+                <i>{{ method.description }}</i>
             </p>
-            <p>{{ tool.excerpt }}</p>
+            <p>{{ method.excerpt }}</p>
         </li>
     {% endfor %}
 </ul>
