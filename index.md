@@ -1,6 +1,6 @@
 ---
 title: 
-layout: home
+layout: page
 ---
 
 ## Table of contents
