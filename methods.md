@@ -5,6 +5,10 @@ description: Describes methods developed by me
 
 I developed the following methods:
 
+* Cite
+* Bite
+* Dite
+
 <ul>
     {% for method in site.methods %}
         <li>
