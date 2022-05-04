@@ -1,3 +1,0 @@
-# Generalized Effective Fragmentation
-
-EOPs
