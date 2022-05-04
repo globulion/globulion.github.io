@@ -1,7 +1,7 @@
 ### Site metadata
 
 # Don't make the title longer than this, otherwise it gets covered in mobile view.
-title: Bartosz Blasiak
+title: Bartosz Błasiak
 description: Electronic structure of condensed phased systems
 
 email:
@@ -12,7 +12,7 @@ rss: RSS
 ### Build settings
 
 url: https://globulion.github.io
-#baseurl: /
+baseurl: /
 
 permalink: pretty
 
