@@ -157,7 +157,7 @@ Frankfurt am Main, Germany., Co-supervised with Irene Burghardt and Jens Bredenb
  
 <h2 id="publications">Publications</h2>
 
-<p><em>Publication list also available <a href="https://scholar.google.com/citations?user=x9CdfG8AAAAJ">in Google Scholar</a>. &#9733; = my postdoc researcher, &#9734; = my PhD student.</em></p>
+<p><em>Publication list also available <a href="https://scholar.google.com/citations?user=x9CdfG8AAAAJ">in Google Scholar</a>. &#9733; = postdoc researcher, &#9734; = PhD student.</em></p>
 
 <h3 id="journal-articles">Journal articles</h3>
 
