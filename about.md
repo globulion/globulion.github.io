@@ -20,3 +20,11 @@ for:
 
 We are currently merging the approaches used in the above two
 examples of application.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

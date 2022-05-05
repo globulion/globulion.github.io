@@ -4,10 +4,16 @@
 title: Bartosz Błasiak
 description: Electronic structure of condensed phased systems
 
-email:
-twitter_username:
+email: blasiak.bartosz@gmail.com
 github_username: globulion
 rss: RSS
+
+owner:
+  name: Bartosz Błasiak
+  avatar: 
+  job: "See my job?"
+  bio: "Professor of processor"
+  email: blasiak.bartosz@gmail.com
 
 ### Build settings
 
@@ -43,9 +49,10 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
-  - sample*.png
 
 liquid:
   error_mode: strict
 
 strict_front_matter: true
+
+
