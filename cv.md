@@ -321,6 +321,6 @@ Royal Society of Chemistry</p>
 
 <p>Citizenship: Polish</p>
 
-<p>Family: Married, no children</p>
+<p>Family: Married</p>
 
 <p><br />Last updated: May 2022<br /><br /></p>
