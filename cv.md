@@ -78,7 +78,7 @@ to Quantum Chemistry.
 
 <p><code class="language-plaintext highlighter-rouge">2018</code>
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">
-<strong>Primising approach to fragmentation of electronic density</strong></a></cite>.
+<strong>Promising approach to fragmentation of electronic density</strong></a></cite>.
 <br>
 In this paper which I am a sole author, I mark my original approach
 to fragmentation of electronic density. It paves a way for new strategies
