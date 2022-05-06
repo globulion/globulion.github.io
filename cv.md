@@ -18,7 +18,7 @@ permalink: /cv/
   <div id="main">
     <div id="content">
     <h1 id="bartosz-blasiak">Bartosz Błasiak</h1>
-<p>Early Career Researcher, Goethe University Frankfurt</p>
+<p>Early Career Scientist, Goethe University Frankfurt</p>
 
 <p>
 <img src="/assets/professional_photo_crop.jpg" alt="Professional photo" style="float:right;width:150px">
@@ -37,13 +37,17 @@ Max von Laue-Str. 7<br />
   <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0003-1968-3465"><i class="ai ai-orcid"></i> 0000-0003-1968-3465</a> - 
 </div>
 
-<h2 id="experience">Experience</h2>
 
-<p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong>Research Associate</strong>, <em>Theoretical Chemistry of Complex Systems</em>, Goethe University Frankfurt, Germany.</p>
+<br>
+<p><center><font size="+2">Specialized in Electronic Structure of Condensed Phase Systems</font></center></p>
+
+<h2 id="experience">Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2021-present</code>
+<strong>Research Associate</strong>, <em>Theoretical Chemistry of Complex Systems</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017</code>
 <strong>Postdoc</strong>, <em>Institute for Biophysics</em>, Goethe University Frankfurt, Germany.</p>
@@ -55,14 +59,13 @@ Seoul, South Korea.</p>
 
 
 
-<h2 id="grants-and-funding">Grants and funding</h2>
+<h2 id="grants-and-funding">Achievements</h2>
 
 <p><em>Funding includes only amounts over 5000€</em></p>
-
-<!-- <h3 id="research-funding">Research funding</h3> -->
+<h3 id="research-funding">Research funding</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2019</code>
-<strong>Establishing Independent Group</strong>, 
+<a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people"><strong>Establishing Independent Group</strong></a>, 
 <em>One-electron effective potentials for applications in quantum chemistry
 of extended molecular aggregates</em>, <strong>170 000€. Sole PI.</strong>, 
 National Science Centre in Poland, H2020-MSCA-CoFund.<br />
@@ -71,21 +74,58 @@ organize workshops, lead multiple projects and establish my own approach
 to Quantum Chemistry.
 </p>
 
-<h2 id="education">Education</h2>
+<h3 id="research-funding">Scientific</h3>
 
-<p><code class="language-plaintext highlighter-rouge">2012-2016</code>
-<strong>Ph.D., Theoretical Chemistry:</strong>
-<u>Vibrational Solvatochromism Theory</u>, 
-<em>Korea University</em>, Seoul, South Korea.</p>
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">
+<strong>Primising approach to fragmentation of electronic density</strong></a></cite>.
+<br>
+In this paper which I am a sole author, I mark my original approach
+to fragmentation of electronic density. It paves a way for new strategies
+of fragmentation that were not explored in the past, potentially leading
+to more efficient electronic structure calculations of large systems.
+</p>
 
-<p><code class="language-plaintext highlighter-rouge">2011-2012</code>
-<strong>M. Eng., Bioinformatics:</strong>
-<u>Non-linear electrooptic properties of organic systems</u>, 
-<em>Wroclaw University of Science and Technology</em>, Poland.</p>
+<p><code class="language-plaintext highlighter-rouge">2021</code>
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">
+<strong>Excitonic Hamiltonian Calculations Made Ultraefficient</strong></a></cite>.
+<br>
+I developed a protocol of elimination of electron repulsion integrals called 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462"><em>effective one-electron potentials (EOPs)</em></a></cite>
+that enables to calculate short range Dexter pathways
+to excitonic Hamiltonians with negligible computational time. In fact,
+it reduces CPU time by 3-5 orders of magnitude (!) as compared to state of the art.
+This opens new efficient routes to applications in optoelectronics and light harvesting
+systems.
+</p>
+
+
+<p><code class="language-plaintext highlighter-rouge">2013-2017</code>
+<cite><a target="_blank" rel="noopener noreferrer" href="https://globulion.github.io/slv">
+<strong>H-Bond and Polarizability Interactions with Vibrational Probes in Biomolecules Described For The First Time</strong></a></cite>.
+<br>
+I developed 
+original electronic structure approach 
+called 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4872040"><em>SolEFP</em></a></cite>
+that allows one to simulate IR spectra of IR probes in various environments
+(from 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.accounts.7b00002">solvents</a></cite> 
+to 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">proteins</a></cite>)
+with great accuracy and efficiency. It 
+builds vibrational property of condensed phase system directly from fragments -
+as simple as combining <em>"LEGO electronic structure blocks"</em> together!
+</p>
+
+
+
 
 
 
 <h2 id="awards-and-honors">Awards and honors</h2>
+
+<h3 id="during-phd">As PI</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2019</code>
 <strong>START Award for Emerging Young Scientists</strong>, 6000€, Foundation For Polish Science, Warsaw, Poland.
@@ -94,6 +134,8 @@ to Quantum Chemistry.
 <p><code class="language-plaintext highlighter-rouge">2018</code>
 <strong>Exceptional Young Researchers Award</strong>, 42000€, Ministry of Science and Higher Education, Warsaw, Poland.
 </p>
+
+<h3 id="during-phd">During PhD</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2016</code>
 <strong>First Poster Prize at IBS Meeting</strong>, IBS Center of Multidimensional Spectroscopy and Dynamics, Seoul, South Korea.
@@ -114,6 +156,23 @@ This scholarship award allowed me to go for 1 month research visit to University
 at Austin and collaborate with Lauren J. Webb on the topic of molecular dynamics
 simulations and IR spectra calculations of the IR probes at protein interfaces.
 </p>
+
+
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2012-2016</code>
+<strong>Ph.D., Theoretical Chemistry:</strong>
+Vibrational Solvatochromism Theory
+<br>Advisor: 
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://cmsd.ibs.re.kr/html/cmsd_en/people/people_0201.html">Minhaeng Cho</a></cite></strong>,
+<em>Korea University</em>, Seoul, South Korea.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2011-2012</code>
+<strong>M. Eng., Bioinformatics:</strong>
+Non-linear electrooptic properties of organic systems, 
+<em>Wroclaw University of Science and Technology</em>, Poland.</p>
+
 
 
 
@@ -276,7 +335,7 @@ Frankfurt am Main, Germany., Co-supervised with Irene Burghardt and Jens Bredenb
 <em>Zenodo</em>, 2020.</p>
 
 
-
+<!-- 
 <h2 id="education">Active Collaboration</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2013-present</code>
@@ -294,6 +353,7 @@ Frankfurt am Main, Germany., Co-supervised with Irene Burghardt and Jens Bredenb
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
 <p><strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de">Irene Burghardt</a></cite></strong>, <em>Goethe University Frankfurt</em>, Frankfurt am Main, Germany.</p>
 
+-->
 
 
 
