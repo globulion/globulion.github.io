@@ -165,12 +165,14 @@ simulations and IR spectra calculations of the IR probes at protein interfaces.
 <strong>Ph.D., Theoretical Chemistry:</strong>
 Vibrational Solvatochromism Theory
 <br>Advisor: 
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://cmsd.ibs.re.kr/html/cmsd_en/people/people_0201.html">Minhaeng Cho</a></cite></strong>,
+<cite><a target="_blank" rel="noopener noreferrer" href="https://cmsd.ibs.re.kr/html/cmsd_en/people/people_0201.html">Minhaeng Cho</a></cite>,
 <em>Korea University</em>, Seoul, South Korea.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2011-2012</code>
 <strong>M. Eng., Bioinformatics:</strong>
-Non-linear electrooptic properties of organic systems, 
+Non-linear electrooptic properties of organic systems
+<br>Advisor: 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://huckel.pl/people/robert-gora">Robert W. Góra</a></cite>,
 <em>Wroclaw University of Science and Technology</em>, Poland.</p>
 
 
