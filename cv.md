@@ -222,6 +222,13 @@ Frankfurt am Main, Germany., Co-supervised with Irene Burghardt and Jens Bredenb
 
 <h3 id="journal-articles">Journal articles</h3>
 
+<p><code class="language-plaintext highlighter-rouge">2022</code>
+
+<p><strong>B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.chemphys.2022.111542">Modelling Ultrafast Dynamics at a Conical Intersection with Regularized Diabatic States: An Approach Based on Multiplicative Neural Networks</a></cite>. 
+<em>Chem. Phys.</em>, 2022, <strong>XX</strong>, 111542.</p>
+
+
 <p><code class="language-plaintext highlighter-rouge">2021</code>
 
 <p><strong>B. Błasiak</strong>, J. D. Bednarska&#9733;, M. Chołuj&#9733;, R. W. Góra, W. Bartkowiak. 
