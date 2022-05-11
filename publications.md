@@ -4,8 +4,6 @@ layout: page
 permalink: /publications/
 ---
 
-<h2 id="publications">Publications</h2>
-
 <p><em>Publication list also available <a href="https://scholar.google.com/citations?user=x9CdfG8AAAAJ">in Google Scholar</a>. &#9733; = postdoc researcher, &#9734; = PhD student.</em></p>
 
 <h3 id="journal-articles">Journal articles</h3>
@@ -124,11 +122,15 @@ permalink: /publications/
 
 <h3 id="software">Software</h3>
 
-<p><strong>B. Błasiak</strong>. 
-<cite><a target="_blank" rel="noopener noreferrer" href="https://globulion.github.io/slv">Solvshift - Vibrational Solvatochromsim Package</a></cite>. 2012-2022.</p>
+<p><code class="language-plaintext highlighter-rouge">2020</code>
 
 <p><strong>B. Błasiak</strong>, M. Chołuj&#9733;, J. D. Bednarska&#9733;, R. W. Góra, W. Bartkowiak. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.5281/zenodo.4281062">EOPDev 1.0.0, 2020-11-19 (v1.0.0)</a></cite>. 
 <em>Zenodo</em>, 2020.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2017</code>
+
+<p><strong>B. Błasiak</strong>. 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://globulion.github.io/slv">Solvshift - Vibrational Solvatochromsim Package</a></cite>. 2012-2022.</p>
 
 
