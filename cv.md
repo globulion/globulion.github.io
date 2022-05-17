@@ -24,7 +24,7 @@ permalink: /cv/
 <img src="/assets/professional_photo_crop.jpg" alt="Professional photo" style="float:right;width:150px">
 </p>
 
-<p> Theoretical Chemistry of Complex Systems, AK Burghardt<br />
+<p> Institute for Physical and Theoretical Chemistry, AK Burghardt<br />
 Max von Laue-Str. 7<br />
 60438 Frankfurt am Main<br /></p>
 
@@ -47,7 +47,7 @@ Max von Laue-Str. 7<br />
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong>Research Associate</strong>, <em>Theoretical Chemistry of Complex Systems</em>, Goethe University Frankfurt, Germany.</p>
+<strong>Research Associate</strong>, <em>Institute for Physical and Theoretical Chemistry</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017</code>
 <strong>Postdoc</strong>, <em>Institute for Biophysics</em>, Goethe University Frankfurt, Germany.</p>
@@ -384,6 +384,7 @@ Royal Society of Chemistry</p>
 
 <p>Basic: Korean, German, Malay</p>
 
+<!--
 <h2 id="personal">Personal</h2>
 
 <p>Birth date: 4th August 1988</p>
@@ -391,5 +392,6 @@ Royal Society of Chemistry</p>
 <p>Citizenship: Polish</p>
 
 <p>Family: Married</p>
+-->
 
 <p><br />Last updated: May 2022<br /><br /></p>
