@@ -43,11 +43,11 @@ Max von Laue-Str. 7<br />
 
 <h2 id="experience">Experience</h2>
 
+<p><code class="language-plaintext highlighter-rouge">2021-present</code>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Research Associate</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry</em>, Goethe University Frankfurt, Germany.</p>
+
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
-
-<p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong>Research Associate</strong>, <em>Institute for Physical and Theoretical Chemistry</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017</code>
 <strong>Postdoc</strong>, <em>Institute for Biophysics</em>, Goethe University Frankfurt, Germany.</p>
