@@ -125,7 +125,19 @@ as simple as combining <em>"LEGO electronic structure blocks"</em> together!
 
 <h2 id="awards-and-honors">Awards and honors</h2>
 
-<h3 id="during-phd">As PI</h3>
+<h3 id="as pi">As PI</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code>
+<strong>Member of 71st Lindau Nobel Laureate Meeting Chemistry</strong>, 
+sponsored by Foundation For Polish Science (FNP),
+German Research Foundation (DFG) and Lindau Nobel Laureate Meetings (LINO).
+</p>
+
+<p><code class="language-plaintext highlighter-rouge">2021</code>
+<strong>Member of 70th Lindau Nobel Laureate Meeting Chemistry</strong>, 
+sponsored by Foundation For Polish Science (FNP)
+and Lindau Nobel Laureate Meetings (LINO).
+</p>
 
 <p><code class="language-plaintext highlighter-rouge">2019</code>
 <strong>START Award for Emerging Young Scientists</strong>, 6000€, Foundation For Polish Science, Warsaw, Poland.
