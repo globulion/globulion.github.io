@@ -196,6 +196,13 @@ Non-linear electrooptic properties of organic systems
 <p><code class="language-plaintext highlighter-rouge">2016-present</code>
 <em>Journal of Physical Chemistry A, B, C</em>, <em>Journal of Molecular Modelling</em> </p>
 
+<h3 id="teaching">Teaching</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2021-present</code>
+<em>Theoretical Chemistry</em> </p>
+
+<p><code class="language-plaintext highlighter-rouge">2021-present</code>
+<em>Photochemistry</em> </p>
 
 
 <h2 id="supervision">Supervision</h2>
