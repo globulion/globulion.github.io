@@ -244,18 +244,18 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p><code class="language-plaintext highlighter-rouge">2022</code>
 
-<p><strong>[1] B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
+<p>[1]<strong> B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.chemphys.2022.111542">Modelling Ultrafast Dynamics at a Conical Intersection with Regularized Diabatic States: An Approach Based on Multiplicative Neural Networks</a></cite>. 
 <em>Chem. Phys.</em>, 2022, <strong>560</strong>, 111542.</p>
 
 
 <p><code class="language-plaintext highlighter-rouge">2021</code>
 
-<p><strong>[2] B. Błasiak</strong>, J. D. Bednarska&#9733;, M. Chołuj&#9733;, R. W. Góra, W. Bartkowiak. 
+<p>[2]<strong> B. Błasiak</strong>, J. D. Bednarska&#9733;, M. Chołuj&#9733;, R. W. Góra, W. Bartkowiak. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">Ab initio effective one-electron potential operators: Applications for charge-transfer energy in effective fragment potentials</a></cite>. 
 <em>J. Comput. Chem.</em>, 2021, <strong>42</strong>, 398.</p>
 
-<p><strong>[3] B. Błasiak</strong>, W. Bartkowiak, R. W. Góra. 
+<p>[3]<strong> B. Błasiak</strong>, W. Bartkowiak, R. W. Góra. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">An effective potential for Frenkel excitons</a></cite>. 
 <em>Phys. Chem. Chem. Phys.</em>, 2021, <strong>23</strong>, 1923.</p>
 
@@ -284,7 +284,7 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p><code class="language-plaintext highlighter-rouge">2018</code>
 
-<p><strong>[8] B. Błasiak</strong>. 
+<p>[8]<strong> B. Błasiak</strong>. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">One-particle density matrix polarization susceptibility tensors</a></cite>. 
 <em>J. Chem. Phys.</em>, 2018, <strong>149</strong>, 164115.</p>
 
@@ -295,14 +295,14 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p><code class="language-plaintext highlighter-rouge">2017</code>
 
-<p><strong>[10] B. Błasiak</strong>, C. H. Londergan, L. J. Webb, M. Cho. 
+<p>[10]<strong> B. Błasiak</strong>, C. H. Londergan, L. J. Webb, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.accounts.7b00002">Vibrational probes: From small molecule solvatochromism theory and experiments to applications in complex systems</a></cite>. 
 <em>Acc. Chem. Res.</em>, 2017, <strong>50</strong>, 968.</p>
 
 
 <p><code class="language-plaintext highlighter-rouge">2016</code>
 
-<p><strong>[11] B. Błasiak</strong>, A. W. Ritchie, L. J. Webb, M. Cho. 
+<p>[11]<strong> B. Błasiak</strong>, A. W. Ritchie, L. J. Webb, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="LINK">Vibrational solvatochromism of nitrile infrared probes: Beyond the vibrational Stark dipole approach</a></cite>. 
 <em>Phys. Chem. Chem. Phys.</em>, 2016, <strong>18</strong>, 18094.</p>
 
@@ -321,25 +321,25 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p><code class="language-plaintext highlighter-rouge">2015</code>
 
-<p><strong>[15] B. Błasiak</strong>, M. Cho. 
+<p>[15]<strong> B. Błasiak</strong>, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4934667">Vibrational solvatochromism. III. Rigorous treatment of the dispersion interaction contribution</a></cite>. 
 <em>J. Chem. Phys.</em>, 2015, <strong>143</strong>, 164111.</p>
 
-<p><strong>[16] B. Błasiak</strong>, M. Maj, M. Cho, R. W. Góra. 
+<p>[16]<strong> B. Błasiak</strong>, M. Maj, M. Cho, R. W. Góra. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.5b00216">Distributed multipolar expansion approach to calculation of excitation energy transfer couplings</a></cite>. 
 <em>J. Comput. Chem.</em>, 2015, <strong>11</strong>, 3259.</p>
 
 
 <p><code class="language-plaintext highlighter-rouge">2014</code>
 
-<p><strong>[17] B. Błasiak</strong>, M. Cho. 
+<p>[17]<strong> B. Błasiak</strong>, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4872040">Vibrational solvatochromism. II. A first-principle theory of solvation-induced vibrational frequency shift based on effective fragment potential method</a></cite>. 
 <em>J. Chem. Phys.</em>, 2014, <strong>140</strong>, 164107.</p>
 
 
 <p><code class="language-plaintext highlighter-rouge">2013</code>
 
-<p><strong>[18] B. Błasiak</strong>, H. Lee, M. Cho. 
+<p>[18]<strong> B. Błasiak</strong>, H. Lee, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4816041">Vibrational solvatochromism: Towards systematic approach to modeling solvation phenomena</a></cite>. 
 <em>J. Chem. Phys.</em>, 2013, <strong>139</strong>, 044111.</p>
 
