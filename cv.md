@@ -41,7 +41,7 @@ Max von Laue-Str. 7<br />
 <br>
 <p><center><font size="+2">Specialized in Electronic Structure of Condensed Phase Systems</font></center></p>
 
-<h2 id="experience">Experience</h2>
+<h2 id="experience">Work Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Postdoc</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
@@ -243,7 +243,7 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p><code class="language-plaintext highlighter-rouge">2022</code>
 
-<p><strong>B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
+* <p><strong>B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.chemphys.2022.111542">Modelling Ultrafast Dynamics at a Conical Intersection with Regularized Diabatic States: An Approach Based on Multiplicative Neural Networks</a></cite>. 
 <em>Chem. Phys.</em>, 2022, <strong>XX</strong>, 111542.</p>
 
@@ -386,7 +386,7 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 
 
-<h2 id="memberships">Memberships</h2>
+<h2 id="memberships">Professional Memberships</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2019-2020</code>
 American Chemical Society</p>
