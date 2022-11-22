@@ -44,7 +44,7 @@ Max von Laue-Str. 7<br />
 <h2 id="experience">Work Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Postdoc</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Postdoc</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. I. Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
