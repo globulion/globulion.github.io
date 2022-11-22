@@ -24,7 +24,8 @@ permalink: /cv/
 <img src="/assets/professional_photo_crop.jpg" alt="Professional photo" style="float:right;width:150px">
 </p>
 
-<p> Institute for Physical and Theoretical Chemistry, AK Burghardt<br />
+<p> Institute for Physical and Theoretical Chemistry<br />
+AK Burghardt<br />
 Max von Laue-Str. 7<br />
 60438 Frankfurt am Main<br /></p>
 
