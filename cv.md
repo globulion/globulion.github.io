@@ -61,7 +61,6 @@ Seoul, South Korea.</p>
 
 <h2 id="grants-and-funding">Achievements</h2>
 
-<p><em>Funding includes only amounts over 5000€</em></p>
 <h3 id="research-funding">Research funding</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2019</code>
@@ -237,7 +236,7 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
  
 <h2 id="publications">Publications</h2>
 
-<p><em>Publication list also available <a href="https://scholar.google.com/citations?user=x9CdfG8AAAAJ">in Google Scholar</a>. &#9733; = postdoc researcher, &#9734; = PhD student.</em></p>
+<p><em>Publication list also available <a href="https://scholar.google.com/citations?user=x9CdfG8AAAAJ">in Google Scholar</a>. &#9733; = postdoc researcher</em></p>
 
 <h3 id="journal-articles">Journal articles</h3>
 
