@@ -177,14 +177,14 @@ simulations and IR spectra calculations of the IR probes at protein interfaces.
 <strong>Ph.D., Theoretical Chemistry:</strong>
 Vibrational Solvatochromism Theory
 <br>Advisor: 
-<cite><a target="_blank" rel="noopener noreferrer" href="https://cmsd.ibs.re.kr/html/cmsd_en/people/people_0201.html">Minhaeng Cho</a></cite>,
+<cite><a target="_blank" rel="noopener noreferrer" href="https://cmsd.ibs.re.kr/html/cmsd_en/people/people_0201.html">Prof. Dr. Minhaeng Cho</a></cite>,
 <em>Korea University</em>, Seoul, South Korea.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2011-2012</code>
 <strong>M. Eng., Bioinformatics:</strong>
 Non-linear electrooptic properties of organic systems
 <br>Advisor: 
-<cite><a target="_blank" rel="noopener noreferrer" href="https://huckel.pl/people/robert-gora">Robert W. Góra</a></cite>,
+<cite><a target="_blank" rel="noopener noreferrer" href="https://huckel.pl/people/robert-gora">Prof. Dr. Robert W. Góra</a></cite>,
 <em>Wroclaw University of Science and Technology</em>, Poland.</p>
 
 
@@ -222,17 +222,17 @@ Non-linear electrooptic properties of organic systems
 <h3 id="postdoctoral-researchers">Postdoctoral researchers</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2018-2019</code>
-<strong>Marta Chołuj</strong>, <em>Department of Chemistry, Wroclaw University of Science and Technology</em>, Wrocław, Poland.</p>
+<strong>Dr. Marta Chołuj</strong>, <em>Department of Chemistry, Wroclaw University of Science and Technology</em>, Wrocław, Poland.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2018-2019</code>
-<strong>Joanna D. Bednarska</strong>, <em>Department of Chemistry, Wroclaw University of Science and Technology</em>, Wrocław, Poland.</p>
+<strong>Dr. Joanna D. Bednarska</strong>, <em>Department of Chemistry, Wroclaw University of Science and Technology</em>, Wrocław, Poland.</p>
 
 
 <h3 id="bachelors-theses">Bachelors theses</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2021</code>
 <strong>Younghui Yun</strong>, <em>Biophysics, Goethe University Frankfurt</em>, 
-Frankfurt am Main, Germany., Co-supervised with Irene Burghardt and Jens Bredenbeck</p>
+Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Prof. Dr. Jens Bredenbeck</p>
 
  
 <h2 id="publications">Publications</h2>
