@@ -165,7 +165,7 @@ and Lindau Nobel Laureate Meetings (LINO).
 <strong>Brain Korea 21 Scholarship Award</strong>, Korean Government, Seoul, South Korea.
 <br>
 This scholarship award allowed me to go for 1 month research visit to University of Texas
-at Austin and collaborate with Lauren J. Webb on the topic of molecular dynamics
+at Austin and collaborate with Prof. Dr. Lauren J. Webb on the topic of molecular dynamics
 simulations and IR spectra calculations of the IR probes at protein interfaces.
 </p>
 
