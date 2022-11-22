@@ -44,7 +44,7 @@ Max von Laue-Str. 7<br />
 <h2 id="experience">Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Research Associate</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry</em>, Goethe University Frankfurt, Germany.</p>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Postdoc</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
@@ -69,7 +69,7 @@ Seoul, South Korea.</p>
 <em>One-electron effective potentials for applications in quantum chemistry
 of extended molecular aggregates</em>, <strong>170 000€. Sole PI.</strong>, 
 National Science Centre in Poland, H2020-MSCA-CoFund.<br />
-This grant allowed me to create my first research group: recruit postdocs, 
+This grant allowed me to create my first research group, 
 organize workshops, lead multiple projects and establish my own approach
 to Quantum Chemistry.
 </p>
@@ -80,8 +80,9 @@ to Quantum Chemistry.
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">
 <strong>Promising approach to fragmentation of electronic density</strong></a></cite>.
 <br>
-In this paper which I am a sole author, I mark my original approach
-to fragmentation of electronic density. It paves a way for new strategies
+In this work I establish my approach
+to fragmentation of electronic density. 
+It is a basis for new strategies
 of fragmentation that were not explored in the past, potentially leading
 to more efficient electronic structure calculations of large systems.
 </p>
@@ -90,13 +91,12 @@ to more efficient electronic structure calculations of large systems.
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">
 <strong>Excitonic Hamiltonian Calculations Made Ultraefficient</strong></a></cite>.
 <br>
-I developed a protocol of elimination of electron repulsion integrals called 
+Me and my group developed a protocol of elimination of electron repulsion integrals called 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462"><em>effective one-electron potentials (EOPs)</em></a></cite>
-that enables to calculate short range Dexter pathways
-to excitonic Hamiltonians with negligible computational time. In fact,
-it reduces CPU time by 3-5 orders of magnitude (!) as compared to state of the art.
-This opens new efficient routes to applications in optoelectronics and light harvesting
-systems.
+that enables to calculate Dexter and indirect (short range) contributions
+to excitonic Hamiltonians with negligible computational time by using perturbation methods. 
+We showed that CPU time can be reduced by 3-5 orders of magnitude as compared to state of the art methods.
+This could be used in new fragmentation schemes for optoelectronics and light harvesting systems.
 </p>
 
 
@@ -104,7 +104,7 @@ systems.
 <cite><a target="_blank" rel="noopener noreferrer" href="https://globulion.github.io/slv">
 <strong>H-Bond and Polarizability Interactions with Vibrational Probes in Biomolecules Described For The First Time</strong></a></cite>.
 <br>
-I developed 
+During my PhD I developed 
 original electronic structure approach 
 called 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4872040"><em>SolEFP</em></a></cite>
@@ -113,9 +113,9 @@ that allows one to simulate IR spectra of IR probes in various environments
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.accounts.7b00002">solvents</a></cite> 
 to 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">proteins</a></cite>)
-with great accuracy and efficiency. It 
+with good accuracy and efficiency. It 
 builds vibrational property of condensed phase system directly from fragments -
-as simple as combining <em>"LEGO electronic structure blocks"</em> together!
+as simple as combining <em>"LEGO electronic structure blocks"</em> together.
 </p>
 
 
