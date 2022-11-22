@@ -65,10 +65,10 @@ Seoul, South Korea.</p>
 <h3 id="research-funding">Research funding</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2019</code>
-<a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people"><strong>Establishing Independent Group</strong></a>, 
-<em>One-electron effective potentials for applications in quantum chemistry
-of extended molecular aggregates</em>, <strong>170 000€. Sole PI.</strong>, 
-National Science Centre in Poland, H2020-MSCA-CoFund.<br />
+<a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people"><strong>Polonez 3</strong></a> (National Science Centre in Poland, H2020-MSCA-CoFund) <br />
+Title: <em>One-electron effective potentials for applications in quantum chemistry
+of extended molecular aggregates</em>, <strong>170 000€. Sole PI.</strong>
+<br />
 This grant allowed me to create my first research group, 
 organize workshops, lead multiple projects and establish my own approach
 to Quantum Chemistry.
