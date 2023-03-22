@@ -27,3 +27,11 @@ examples of application. Check out these posts:
     </li>
   {% endfor %}
 </ul>
+
+Also, see our promoting videos:
+
+<iframe width="420" height="315"
+src="https://youtube.com/embed/sLqVEK6cph0">
+</iframe> 
+
+
