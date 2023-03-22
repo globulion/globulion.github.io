@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-I am developing theoretical methods to describe
+We are developing theoretical methods to describe
 chemistry at large scales with quantum mechanical
 accuracy. The focus is in particular on solvation phenomena
 and spectroscopy of condensed phase systems.
@@ -13,13 +13,12 @@ method that goes beyond standard classical *ab initio* force fields
 and is applicable to a wide range of problems in material and medicinal chemistry.
 
 Currently, following our fragmentation philosophy, 
-we developed two methods that are currently applicable
-for:
+we developed two methods that are applicable for:
  - calculation of vibrational spectra of local IR probes
  - excitonic energy transfer couplings
 
 We are currently merging the approaches used in the above two
-examples of application.
+examples of application. Check out these posts:
 
 <ul>
   {% for post in site.posts %}
