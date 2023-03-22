@@ -45,10 +45,10 @@ Max von Laue-Str. 7<br />
 <h2 id="experience">Work Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2021-present</code>
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Postdoc</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Irene Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Research associate</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Irene Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group Leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017</code>
 <strong>Postdoc</strong>, <em>Institute for Biophysics</em>, Goethe University Frankfurt, Germany.</p>
@@ -66,7 +66,8 @@ Seoul, South Korea.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2019</code>
 <a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people"><strong>Polonez 3.</strong></a> <br /> 
-(National Science Centre in Poland, H2020-MSCA-CoFund, <strong>170 000€</strong>) <br />
+(<cite><a target="_blank" rel="noopener noreferrer" href="https://ncn.gov.pl/sites/default/files/pliki/centrum-prasowe/Katalog_projektow_POLONEZ.pdf">National Science Centre in Poland</a></cite>, 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://cordis.europa.eu/project/id/665778">H2020-MSCA-CoFund</a></cite>, <strong>170 000€</strong>) <br />
 Title: <em>One-electron effective potentials for applications in quantum chemistry
 of extended molecular aggregates</em>.
 <br />
@@ -402,7 +403,9 @@ Royal Society of Chemistry</p>
 
 <p>Fluent: English</p>
 
-<p>Basic: Korean, German, Malay</p>
+<p>Fair: German</p>
+
+<p>Basic: Korean, Malay</p>
 
 <!--
 <h2 id="personal">Personal</h2>
