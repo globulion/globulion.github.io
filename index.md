@@ -8,7 +8,7 @@ layout: home
 <!-- Welcome to the **Bartosz Błasiak Project Page**.  -->
 
 
-# Welcome to the Blasiak Project Page!
+# Welcome to the Blasiak Project Page
 
 -------
 

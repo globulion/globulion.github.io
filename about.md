@@ -1,5 +1,5 @@
 ---
-title: About
+title: Mission
 layout: page
 permalink: /about/
 ---
@@ -12,13 +12,17 @@ Our long standing goal is formulation of fragmentation
 method that goes beyond standard classical *ab initio* force fields
 and is applicable to a wide range of problems in material and medicinal chemistry.
 
+--------
+
+<br>
 Currently, following our fragmentation philosophy, 
 we developed two methods that are applicable for:
  - calculation of vibrational spectra of local IR probes
  - excitonic energy transfer couplings
 
-We are currently merging the approaches used in the above two
-examples of application. Check out these posts:
+We are merging the approaches to use in extended systems
+such as optoelectronics and complex bio-molecular systems.
+Check out these posts:
 
 <ul>
   {% for post in site.posts %}
@@ -28,10 +32,14 @@ examples of application. Check out these posts:
   {% endfor %}
 </ul>
 
-Also, see our promoting videos:
+Also, see our promoting video:
 
+
+<center>
 <iframe width="420" height="315"
 src="https://youtube.com/embed/sLqVEK6cph0">
 </iframe> 
+</center>
+<br>
 
-
+-------
