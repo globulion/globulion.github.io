@@ -14,7 +14,7 @@ layout: home
 
 <img width="120" src="/assets/photo_lindau.png" alt="Welcome!" align="left" hspace="9" vspace="10"> 
 <p align="justify">
-I am doing research in the field of large-scale Quantum Chemistry &mdash; investigating
+My research expertise is in the field of large-scale Quantum Chemistry &mdash; investigating
 complex condensed-phase systems from the perspective of Quantum Mechanics. 
 I am currently a research associate in Goethe University Frankfurt, in the 
 <cite>
