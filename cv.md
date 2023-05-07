@@ -348,7 +348,7 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p align="justify">[16]<strong> B. Błasiak</strong>, M. Maj, M. Cho, R. W. Góra. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.5b00216">Distributed multipolar expansion approach to calculation of excitation energy transfer couplings</a></cite>. 
-<em>J. Comput. Chem.</em>, 2015, <strong>11</strong>, 3259.</p>
+<em>J. Chem. Theory Comput.</em>, 2015, <strong>11</strong>, 3259.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2014</code>
@@ -437,4 +437,4 @@ Royal Society of Chemistry</p>
 <p>Family: Married</p>
 -->
 
-<p align="justify"><br />Last updated: Nov 2022<br /><br /></p>
+<p align="justify"><br />Last updated: Apr 2023<br /><br /></p>
