@@ -8,6 +8,13 @@ permalink: /publications/
 
 <h3 id="journal-articles">Journal articles</h3>
 
+<p align="justify"><code class="language-plaintext highlighter-rouge">2024</code>
+
+<p align="justify">[20] J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.4c00841">Internal Conversion Cascade in a Carbon Nanobelt: A Multiconfigurational Quantum Dynamical Study</a></cite>. 
+<em>J. Chem. Theory Comput.</em>, 2024, <strong>20</strong>, 8127.</p>
+
+
 <p align="justify"><code class="language-plaintext highlighter-rouge">2022</code>
 
 <p align="justify">[19] <strong>B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
