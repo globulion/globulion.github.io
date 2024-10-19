@@ -265,15 +265,14 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2024</code>
 
-<p align="justify">[1]<strong> B. Błasiak</strong>, 
-J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
+<p align="justify">[1] J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.4c00841">Internal Conversion Cascade in a Carbon Nanobelt: A Multiconfigurational Quantum Dynamical Study</a></cite>. 
 <em>J. Chem. Theory Comput.</em>, 2024, <strong>20</strong>, 8127.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2022</code>
 
-<p align="justify">[1]<strong> B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
+<p align="justify">[2]<strong> B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.chemphys.2022.111542">Modelling Ultrafast Dynamics at a Conical Intersection with Regularized Diabatic States: An Approach Based on Multiplicative Neural Networks</a></cite>. 
 <em>Chem. Phys.</em>, 2022, <strong>560</strong>, 111542.</p>
 
