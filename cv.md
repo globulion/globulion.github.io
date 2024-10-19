@@ -65,7 +65,7 @@ code {
 <h2 id="experience">Work Experience</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2021-now</code>
-<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Research associate</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry, Prof. Dr. Irene Burghardt group</em>, Goethe University Frankfurt, Germany.</p>
+<strong><cite><a target="_blank" rel="noopener noreferrer" href="https://www.theochem.uni-frankfurt.de/people">Research associate</a></cite></strong>, <em>Institute for Physical and Theoretical Chemistry</em>, Goethe University Frankfurt, Germany.</p>
 
 <p><code class="language-plaintext highlighter-rouge">2017-2020</code>
 <strong><cite><a target="_blank" rel="noopener noreferrer" href="http://www.polonez.pwr.edu.pl/people/people">Group leader</a></cite>, assistant professor</strong>, <em>Electronic Structure of Extended Systems</em>, Wroclaw University of Science and Technology, Poland.</p>
@@ -228,15 +228,20 @@ Non-linear electrooptic properties of organic systems
 <h3 id="professional-service">Peer Review Activity</h3>
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2016-now</code>
-<em>Journal of Physical Chemistry A, B, C</em>, <em>Journal of Molecular Modelling</em> </p>
+<em>J. Chem. Theory Comput.</em>,
+<em>J. Phys. Chem. A</em>, <em>J. Phys. Chem. B</em>, <em>J. Mol. Modell.</em> </p>
 
 <h3 id="teaching">Teaching</h3>
 
-<p align="justify"><code class="language-plaintext highlighter-rouge">2021-now</code>
-<em>Theoretical Chemistry</em> </p>
+<p align="justify"><code class="language-plaintext highlighter-rouge">2023-now</code>
+<em>Chemie für Mediziner und Zahnmediziner: Labor</em> </p>
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2021-now</code>
-<em>Photochemistry</em> </p>
+<em>Highlights der Photochemie</em> </p>
+
+<p align="justify"><code class="language-plaintext highlighter-rouge">2021-now</code>
+<em>Aktuelle Themen der Physikalischen und Theoretischen Chemie: Zeitaufgelöste Spektroskopie</em> </p>
+
 
 
 <h2 id="supervision">Supervision</h2>
@@ -253,8 +258,14 @@ Non-linear electrooptic properties of organic systems
 <h3 id="bachelors-theses">Bachelors theses</h3>
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2021</code>
-<strong>Younghui Yun</strong>, <em>Biophysics, Goethe University Frankfurt</em>, 
-Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Prof. Dr. Jens Bredenbeck</p>
+<strong>Younghui Yun</strong>, Topic: Theoretical Modeling of Two-Dimensional Infrared (2D-IR) Spectroscopy,
+<em>Goethe University Frankfurt</em>, 
+Frankfurt am Main, Germany.</p>
+
+<p align="justify"><code class="language-plaintext highlighter-rouge">2023</code>
+<strong>Paul Rumpf</strong>, Topic: Development of Neural Network Potentials for
+Multi-Configurational Quantum Dynamics, <em>Goethe University Frankfurt</em>, 
+Frankfurt am Main, Germany.</p>
 
  
 <h2 id="publications">Publications</h2>
@@ -265,58 +276,58 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2024</code>
 
-<p align="justify">[1] J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
+<p align="justify">[20] J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.4c00841">Internal Conversion Cascade in a Carbon Nanobelt: A Multiconfigurational Quantum Dynamical Study</a></cite>. 
 <em>J. Chem. Theory Comput.</em>, 2024, <strong>20</strong>, 8127.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2022</code>
 
-<p align="justify">[2]<strong> B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
+<p align="justify">[19]<strong> B. Błasiak</strong>, D. Brey, W. Koch, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.chemphys.2022.111542">Modelling Ultrafast Dynamics at a Conical Intersection with Regularized Diabatic States: An Approach Based on Multiplicative Neural Networks</a></cite>. 
 <em>Chem. Phys.</em>, 2022, <strong>560</strong>, 111542.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2021</code>
 
-<p>[2]<strong> B. Błasiak</strong>, J. D. Bednarska&#9733;, M. Chołuj&#9733;, R. W. Góra, W. Bartkowiak. 
+<p>[18]<strong> B. Błasiak</strong>, J. D. Bednarska&#9733;, M. Chołuj&#9733;, R. W. Góra, W. Bartkowiak. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">Ab initio effective one-electron potential operators: Applications for charge-transfer energy in effective fragment potentials</a></cite>. 
 <em>J. Comput. Chem.</em>, 2021, <strong>42</strong>, 398.</p>
 
-<p align="justify">[3]<strong> B. Błasiak</strong>, W. Bartkowiak, R. W. Góra. 
+<p align="justify">[17]<strong> B. Błasiak</strong>, W. Bartkowiak, R. W. Góra. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">An effective potential for Frenkel excitons</a></cite>. 
 <em>Phys. Chem. Chem. Phys.</em>, 2021, <strong>23</strong>, 1923.</p>
 
-<p align="justify">[4] M. Chołuj&#9733;, <strong>B. Błasiak</strong>, W. Bartkowiak. 
+<p align="justify">[16] M. Chołuj&#9733;, <strong>B. Błasiak</strong>, W. Bartkowiak. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://onlinelibrary.wiley.com/doi/full/10.1002/qua.26544">Partitioning of the interaction-induced polarizability of molecules in helium environments</a></cite>. 
 <em>Int. J. Quant. Chem.</em>, 2021, <strong>121</strong>, e26544.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2020</code>
 
-<p align="justify">[5] C. R. Baiz, <strong>B. Błasiak</strong>, <em>et al.</em>. 
+<p align="justify">[15] C. R. Baiz, <strong>B. Błasiak</strong>, <em>et al.</em>. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.chemrev.9b00813">Vibrational Spectroscopic Map, Vibrational Spectroscopy, and Intermolecular Interaction</a></cite>. 
 <em>Chem. Rev.</em>, 2020, <strong>15</strong>, 7152.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2019</code>
 
-<p align="justify">[6] J. M. Schmidt-Engler, L. Blankenburg, <strong>B. Błasiak</strong>, L. J. G. W. van Wilderen, M. Cho, J. Bredenbeck. 
+<p align="justify">[14] J. M. Schmidt-Engler, L. Blankenburg, <strong>B. Błasiak</strong>, L. J. G. W. van Wilderen, M. Cho, J. Bredenbeck. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.analchem.9b03997">Vibrational Lifetime of the SCN Protein Label in H₂O and D₂O Reports Site-Specific Solvation and Structure Changes During PYP’s Photocycle</a></cite>. 
 <em>Anal. Chem.</em>, 2019, <strong>92</strong>, 1024.</p>
 
-<p align="justify">[7] L. Blankenburg, L. Schroeder, F. Habenstein, <strong>B. Błasiak</strong>, T. Kottke, J. Bredenbeck. 
+<p align="justify">[13] L. Blankenburg, L. Schroeder, F. Habenstein, <strong>B. Błasiak</strong>, T. Kottke, J. Bredenbeck. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C8CP05399E">Following local light-induced structure changes and dynamics of the photoreceptor PYP with the thiocyanate IR label</a></cite>. 
 <em>Phys. Chem. Chem. Phys.</em>, 2019, <strong>21</strong>, 6622.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2018</code>
 
-<p align="justify">[8]<strong> B. Błasiak</strong>. 
+<p align="justify">[12]<strong> B. Błasiak</strong>. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">One-particle density matrix polarization susceptibility tensors</a></cite>. 
 <em>J. Chem. Phys.</em>, 2018, <strong>149</strong>, 164115.</p>
 
-<p align="justify">[9] R. J. Xu, <strong>B. Błasiak</strong>, M. Cho, J. P. Layfield, C. H. Londergan. 
+<p align="justify">[11] R. J. Xu, <strong>B. Błasiak</strong>, M. Cho, J. P. Layfield, C. H. Londergan. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">A direct, quantitative connection between molecular dynamics simulations and vibrational probe line shapes</a></cite>. 
 <em>J. Phys. Chem. Lett.</em>, 2018, <strong>9</strong>, 2560.</p>
 
@@ -330,48 +341,48 @@ Frankfurt am Main, Germany., Co-supervised with Prof. Dr. Irene Burghardt and Pr
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2016</code>
 
-<p align="justify">[11]<strong> B. Błasiak</strong>, A. W. Ritchie, L. J. Webb, M. Cho. 
+<p align="justify">[9]<strong> B. Błasiak</strong>, A. W. Ritchie, L. J. Webb, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="LINK">Vibrational solvatochromism of nitrile infrared probes: Beyond the vibrational Stark dipole approach</a></cite>. 
 <em>Phys. Chem. Chem. Phys.</em>, 2016, <strong>18</strong>, 18094.</p>
 
-<p align="justify">[12] M. Maj, C. Ahn, <strong>B. Błasiak</strong>, K. Kwak, H. Han, M. Cho. 
+<p align="justify">[8] M. Maj, C. Ahn, <strong>B. Błasiak</strong>, K. Kwak, H. Han, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpcb.6b04319">Isonitrile as an ultrasensitive infrared reporter of hydrogen-bonding structure and dynamics</a></cite>. 
 <em>J. Phys. Chem. B</em>, 2016, <strong>120</strong>, 10167.</p>
 
-<p align="justify">[13] A. Kundu, <strong>B. Błasiak</strong>, J.-H. Lim, K. Kwak, M. Cho. 
+<p align="justify">[7] A. Kundu, <strong>B. Błasiak</strong>, J.-H. Lim, K. Kwak, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.6b00022">Water hydrogen-bonding network structure and dynamics at phospholipid multibilayer surface: femtosecond mid-ir pump–probe spectroscopy</a></cite>. 
 <em>J. Phys. Chem. Lett.</em>, 2016, <strong>7</strong>, 741.</p>
 
-<p align="justify">[14] T. Kwon, J. Park, H. Baik, S. Back, <strong>B. Błasiak</strong>, M. Cho, Y. Jung, K. Lee. 
+<p align="justify">[6] T. Kwon, J. Park, H. Baik, S. Back, <strong>B. Błasiak</strong>, M. Cho, Y. Jung, K. Lee. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C6CE00831C">Unexpected solution phase formation of hollow PtSn alloy nanoparticles from Sn deposition on Pt dendritic structures</a></cite>. 
 <em>CrystEngComm</em>, 2016, <strong>18</strong>, 6019.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2015</code>
 
-<p align="justify">[15]<strong> B. Błasiak</strong>, M. Cho. 
+<p align="justify">[5]<strong> B. Błasiak</strong>, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4934667">Vibrational solvatochromism. III. Rigorous treatment of the dispersion interaction contribution</a></cite>. 
 <em>J. Chem. Phys.</em>, 2015, <strong>143</strong>, 164111.</p>
 
-<p align="justify">[16]<strong> B. Błasiak</strong>, M. Maj, M. Cho, R. W. Góra. 
+<p align="justify">[4]<strong> B. Błasiak</strong>, M. Maj, M. Cho, R. W. Góra. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jctc.5b00216">Distributed multipolar expansion approach to calculation of excitation energy transfer couplings</a></cite>. 
 <em>J. Chem. Theory Comput.</em>, 2015, <strong>11</strong>, 3259.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2014</code>
 
-<p align="justify">[17]<strong> B. Błasiak</strong>, M. Cho. 
+<p align="justify">[3]<strong> B. Błasiak</strong>, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4872040">Vibrational solvatochromism. II. A first-principle theory of solvation-induced vibrational frequency shift based on effective fragment potential method</a></cite>. 
 <em>J. Chem. Phys.</em>, 2014, <strong>140</strong>, 164107.</p>
 
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2013</code>
 
-<p align="justify">[18]<strong> B. Błasiak</strong>, H. Lee, M. Cho. 
+<p align="justify">[2]<strong> B. Błasiak</strong>, H. Lee, M. Cho. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.4816041">Vibrational solvatochromism: Towards systematic approach to modeling solvation phenomena</a></cite>. 
 <em>J. Chem. Phys.</em>, 2013, <strong>139</strong>, 044111.</p>
 
-<p align="justify">[19] R. W. Góra, <strong>B. Błasiak</strong>. 
+<p align="justify">[1] R. W. Góra, <strong>B. Błasiak</strong>. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/jp405144f">On the origins of large interaction-induced first hyperpolarizabilities in hydrogen-bonded π-electronic complexes</a></cite>. 
 <em>J. Phys. Chem. A</em>, 2013, <strong>117</strong>, 6859.</p>
 
