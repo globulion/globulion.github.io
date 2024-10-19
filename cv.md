@@ -229,7 +229,7 @@ Non-linear electrooptic properties of organic systems
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2016-now</code>
 <em>J. Chem. Theory Comput.</em>,
-<em>J. Phys. Chem. A</em>, <em>J. Phys. Chem. B</em>, <em>J. Mol. Modell.</em> </p>
+<em>J. Phys. Chem. A</em>, <em>J. Phys. Chem. B</em>, <em>J. Mol. Model.</em> </p>
 
 <h3 id="teaching">Teaching</h3>
 
