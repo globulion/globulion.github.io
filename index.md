@@ -126,7 +126,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">1 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
@@ -147,7 +147,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">2 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
@@ -168,7 +168,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">3 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
@@ -190,7 +190,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
+  <div class="numbertext">4 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
@@ -210,7 +210,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 5</div>
+  <div class="numbertext">5 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
@@ -228,6 +228,29 @@ img {vertical-align: middle;}
      </figure>
   <div class="text"></div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
+     <figure>
+     <center>
+     <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="EOPs for EET" >
+     <figcaption>
+     <!-- <strong>Figure: </strong> -->
+     <p align="justify">
+     <cite>
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">EOP</a>
+     </cite>
+     method enables effective fragment parameterization of excitonic energy transfer couplings (EET).
+     This is the first step to generate complex excitonic Hamiltonians for arbitrary arangement of 
+     chromophores with disorder. It is relevant for studying energy and charge transfer processes
+     in organic photovoltaic materials.
+     </p>
+     </figcaption>
+     </center> 
+     </figure>
+  <div class="text"></div>
+</div>
+
 
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
