@@ -129,6 +129,36 @@ img {vertical-align: middle;}
   <div class="numbertext">1 / 6</div>
      <figure>
      <center>
+     <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
+     <figcaption>
+     <!-- <strong>Figure: </strong> -->
+     <p align="justify">
+     <cite>
+     <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Inverse Bogoliubov Transformation</a>
+     </cite>
+     in Thermofield Dynamics of open quantum systems 
+     is convenient for propagating correlated wavepackets 
+     from computational cost perspective, but also highly *non-trivial for phase space analysis*.
+     Here we demonstrate new methods how to efficiently analyse the time evolution
+     of the physical system in terms of the auxiliary 2-particle reduced density matrix.
+     This approach, once combined with electronic structure fragmentation methods,
+     is a powerful way to include thermal ensemble in open quantum systems 
+     such as electronic
+     chromophores with disorder. It is relevant for studying energy and charge transfer processes
+     in organic photovoltaic materials.
+     </p>
+     </figcaption>
+     </center> 
+     </figure>
+  <div class="text"></div>
+</div>
+
+
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 6</div>
+     <figure>
+     <center>
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
      <figcaption>
      <!-- <strong>Figure: </strong> -->
@@ -147,7 +177,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext">3 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
@@ -168,7 +198,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 6</div>
+  <div class="numbertext">4 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
@@ -190,7 +220,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
+  <div class="numbertext">5 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
@@ -210,7 +240,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext">6 / 6</div>
      <figure>
      <center>
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
@@ -222,28 +252,6 @@ img {vertical-align: middle;}
      <a target="_blank" rel="noopener noreferrer" href="https://github.com/globulion/qc-workshop#quantum-chemistry-workshop">Quantum Chemistry Workshop</a>
      </cite>
      to learn more about how to materialize your scientific ideas for implementing your computational methods into action.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 6</div>
-     <figure>
-     <center>
-     <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="EOPs for EET" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
-     <cite>
-     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">EOP</a>
-     </cite>
-     method enables effective fragment parameterization of excitonic energy transfer couplings (EET).
-     This is the first step to generate complex excitonic Hamiltonians for arbitrary arangement of 
-     chromophores with disorder. It is relevant for studying energy and charge transfer processes
-     in organic photovoltaic materials.
      </p>
      </figcaption>
      </center> 
