@@ -184,23 +184,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-     <figure>
-     <center>
+
+     <div class="slide-inner">
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">Bio-SolEFP</a>
      </cite>
      method enables calculations of IR spectra of selected vibrational chromophores
      in very complex molecular environments like proteins, taking into account intricate interplay
      of various quantum mechanical effects on intermolecular interactions.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 <div class="mySlides fade">
