@@ -3,8 +3,6 @@ title:
 layout: home
 ---
 
-<!-- TODO: Replace all the content below with your own -->
-
 <!-- Welcome to the **Bartosz Błasiak Project Page**.  -->
 
 
@@ -110,6 +108,39 @@ img {vertical-align: middle;}
   animation-duration: 1.5s;
 }
 
+/* === Uniform slide layout === */
+.mySlides {
+  height: 520px;            /* uniform slide height */
+  position: relative;
+}
+
+/* Inner layout container */
+.slide-inner {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/* Image control */
+.slide-inner img {
+  max-height: 300px;        /* same image footprint */
+  width: auto;
+  object-fit: contain;
+}
+
+/* Caption control */
+.slide-caption {
+  max-width: 720px;
+  font-size: 0.95rem;
+  text-align: justify;
+}
+
+/* --- */
+
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
@@ -127,12 +158,10 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-     <figure>
-     <center>
+  <div class="slide-inner">
+
      <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Inverse Bogoliubov Transformation</a>
      </cite>
@@ -146,11 +175,9 @@ img {vertical-align: middle;}
      such as electronic
      chromophores with disorder. It is relevant for studying energy and charge transfer processes
      in organic photovoltaic materials.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 
