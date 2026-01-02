@@ -110,7 +110,7 @@ img {vertical-align: middle;}
 
 /* === Uniform slide layout === */
 .mySlides {
-  height: 520px;            /* uniform slide height */
+  height: 620px;            /* uniform slide height */
   position: relative;
 }
 
