@@ -127,7 +127,7 @@ img {vertical-align: middle;}
 
 /* Image control */
 .slide-inner img {
-  max-height: 300px;        /* same image footprint */
+  max-height: 450px;        /* same image footprint */
   width: auto;
   object-fit: contain;
 }
@@ -201,33 +201,26 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-     <figure>
-     <center>
+
+     <div class="slide-inner">
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">EOP</a>
      </cite>
      method enables encapsulations of electron repulsion integrals in fragment-based approaches
      to Quantum Chemistry, making them many orders of magnitude faster and turning them into effective
      fragment potentials.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-     <figure>
-     <center>
+     <div class="slide-inner">
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">EOP</a>
      </cite>
@@ -235,51 +228,39 @@ img {vertical-align: middle;}
      This is the first step to generate complex excitonic Hamiltonians for arbitrary arangement of 
      chromophores with disorder. It is relevant for studying energy and charge transfer processes
      in organic photovoltaic materials.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-     <figure>
-     <center>
+     <div class="slide-inner">
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">EOP</a>
      </cite>
      method makes the transfer (CT) term of the state-of-the-art charge EFP2 method
      less time-consuming by more than one order of magnitude.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-     <figure>
-     <center>
+     <div class="slide-inner">
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
-     <figcaption>
-     <!-- <strong>Figure: </strong> -->
-     <p align="justify">
+     <div class="slide-caption">
      Visit our
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://github.com/globulion/qc-workshop#quantum-chemistry-workshop">Quantum Chemistry Workshop</a>
      </cite>
      to learn more about how to materialize your scientific ideas for implementing your computational methods into action.
-     </p>
-     </figcaption>
-     </center> 
-     </figure>
-  <div class="text"></div>
+     </div>
+
+  </div>
 </div>
 
 
@@ -302,7 +283,7 @@ img {vertical-align: middle;}
 <script>
 let slideIndex = 1;
 let slideTimer = null;
-const slideInterval = 2000;  // 2 seconds
+const slideInterval = 5000;  // 5 seconds
 
 showSlides(slideIndex);
 startAutoSlides();
