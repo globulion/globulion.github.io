@@ -157,7 +157,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
+  <div class="numbertext">1 / 7</div>
   <div class="slide-inner">
 
      <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
@@ -167,7 +167,7 @@ img {vertical-align: middle;}
      </cite>
      in Thermofield Dynamics of open quantum systems 
      is convenient for propagating correlated wavepackets 
-     from computational cost perspective, but also highly *non-trivial for phase space analysis*.
+     from computational cost perspective, but also highly <em>non-trivial for phase space analysis</em>.
      Here we demonstrate new methods how to efficiently analyse the time evolution
      of the physical system in terms of the auxiliary 2-particle reduced density matrix.
      This approach, once combined with electronic structure fragmentation methods,
@@ -183,13 +183,13 @@ img {vertical-align: middle;}
 
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext">2 / 7</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
      <div class="slide-caption">
      <cite>
-     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">Bio-SolEFP</a>
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C6CP01578F">Bio-SolEFP</a>
      </cite>
      method enables calculations of IR spectra of selected vibrational chromophores
      in very complex molecular environments like proteins, taking into account intricate interplay
@@ -200,7 +200,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 6</div>
+  <div class="numbertext">3 / 7</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
@@ -217,7 +217,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
+  <div class="numbertext">4 / 7</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -234,7 +234,26 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext">5 / 7</div>
+     <div class="slide-inner">
+     <img width="600" src="/assets/Calmodulin_SolEFP_2018.jpeg" alt="Bio-SolEFP calmodulin" >
+     <div class="slide-caption">
+     <cite>
+     In collaboration with the 
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">Casey Londergan group</a>, 
+     we applied the
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C6CP01578F">Bio-SolEFP</a>
+     fragmentation method to establish quantitative connection between the FTIR line shape
+     and the structural and dynamical charactristics of SCN-labeled calmodulin in its native form in water.
+     </cite>
+     </div>
+
+  </div>
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -249,7 +268,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 6</div>
+  <div class="numbertext">7 / 7</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
      <div class="slide-caption">
@@ -278,6 +297,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
   <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 
 <script>
