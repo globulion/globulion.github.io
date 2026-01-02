@@ -278,14 +278,32 @@ img {vertical-align: middle;}
 
 <script>
 let slideIndex = 1;
+let slideTimer = null;
+const slideInterval = 2000;  // 2 seconds
+
 showSlides(slideIndex);
+startAutoSlides();
 
 function plusSlides(n) {
+  stopAutoSlides();          // pause auto on manual click
   showSlides(slideIndex += n);
+  startAutoSlides();         // restart timer
 }
 
 function currentSlide(n) {
+  stopAutoSlides();          // pause auto on manual click
   showSlides(slideIndex = n);
+  startAutoSlides();         // restart timer
+}
+
+function startAutoSlides() { 
+  slideTimer = setInterval(() => {
+    showSlides(slideIndex += 1);
+  }, slideInterval);
+}
+
+function stopAutoSlides() {  
+  clearInterval(slideTimer);
 }
 
 function showSlides(n) {
