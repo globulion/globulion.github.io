@@ -192,7 +192,8 @@ img {vertical-align: middle;}
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C6CP01578F">Bio-SolEFP</a>
      </cite>
      method enables calculations of IR spectra of selected vibrational chromophores
-     in very complex molecular environments like proteins, taking into account intricate interplay
+     in very complex molecular environments like aqueous solutions of proteins and their interfaces, 
+     taking into account intricate interplay
      of various quantum mechanical effects on intermolecular interactions.
      </div>
 
@@ -240,7 +241,7 @@ img {vertical-align: middle;}
      <div class="slide-caption">
      <cite>
      In collaboration with the 
-     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">Casey Londergan group</a>, 
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1021/acs.jpclett.8b00969">Londergan group</a>, 
      we applied the
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/C6CP01578F">Bio-SolEFP</a>
      fragmentation method to establish quantitative connection between the FTIR line shape
