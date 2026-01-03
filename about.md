@@ -17,12 +17,12 @@ and is applicable to a wide range of problems in material and medicinal chemistr
 <br>
 Following our fragmentation philosophy, 
 we developed two methods that are applicable for:
- - calculation of vibrational spectra of local IR probes
+ - calculation of vibrational spectra of local IR probes in condensed phase
  - calculation of Frenkel Hamiltonians of extended systems, including excitonic energy transfer couplings
 
-We are merging the approaches and futher improve our fragmentation
-schemes to use in extended systems
-such as optoelectronics, interfaces and complex bio-molecular systems.
+We are merging the approaches and further improving our fragmentation
+scheme for application to extended systems
+such as optoelectronics, interfaces and complex biomolecular systems.
 Check out these posts:
 
 <ul>
