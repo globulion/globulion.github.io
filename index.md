@@ -209,7 +209,7 @@ img {vertical-align: middle;}
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">EOP</a>
      </cite>
-     method enables encapsulations of electron repulsion integrals in fragment-based approaches
+     method encapsulates electron repulsion integrals in fragment-based approaches
      to Quantum Chemistry, making them many orders of magnitude faster and turning them into effective
      fragment potentials.
      </div>
@@ -225,7 +225,7 @@ img {vertical-align: middle;}
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1039/D0CP04636A">EOP</a>
      </cite>
-     method enables effective fragment parameterization of excitonic energy transfer couplings (EET).
+     method provides effective fragment parameterization of excitonic energy transfer couplings (EET).
      This is the first step to generate complex excitonic Hamiltonians for arbitrary arangement of 
      chromophores with disorder. It is relevant for studying energy and charge transfer processes
      in organic photovoltaic materials.
