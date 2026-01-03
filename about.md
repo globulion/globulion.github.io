@@ -15,13 +15,14 @@ and is applicable to a wide range of problems in material and medicinal chemistr
 --------
 
 <br>
-Currently, following our fragmentation philosophy, 
+Following our fragmentation philosophy, 
 we developed two methods that are applicable for:
  - calculation of vibrational spectra of local IR probes
- - excitonic energy transfer couplings
+ - calculation of Frenkel Hamiltonians of extended systems, including excitonic energy transfer couplings
 
-We are merging the approaches to use in extended systems
-such as optoelectronics and complex bio-molecular systems.
+We are merging the approaches and futher improve our fragmentation
+schemes to use in extended systems
+such as optoelectronics, interfaces and complex bio-molecular systems.
 Check out these posts:
 
 <ul>
@@ -32,8 +33,9 @@ Check out these posts:
   {% endfor %}
 </ul>
 
-Also, see our promoting video:
-
+Also, see our videos about the effective one-electron operator (EOP) 
+method that is an important part
+of our fragmentation strategy:
 
 <center>
 <iframe width="420" height="315"

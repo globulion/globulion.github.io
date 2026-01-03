@@ -274,6 +274,23 @@ Frankfurt am Main, Germany.</p>
 
 <h3 id="journal-articles">Journal articles</h3>
 
+<p align="justify"><code class="language-plaintext highlighter-rouge">2025</code>
+
+<p align="justify">[23] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics</a></cite>. 
+<em>J. Chem. Phys.</em>, 2025, <strong>XX</strong>, XX (minor revision submitted).</p>
+
+<p align="justify">[22] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0284503">Quantum dynamics at conical intersections in solution. I. Multiplicative neural networks and thermofields</a></cite>. 
+<em>J. Chem. Phys.</em>, 2025, <strong>163</strong>, 124108.</p>
+
+<p align="justify">[21] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0284504">Quantum dynamics at conical intersections in solution. II. Multiconfigurational wavefunction dynamics at finite temperature</a></cite>. 
+<em>J. Chem. Phys.</em>, 2025, <strong>163</strong>, 124109.</p>
+
+
+
+
 <p align="justify"><code class="language-plaintext highlighter-rouge">2024</code>
 
 <p align="justify">[20] J. A. Green, D. Brey, L. P. Razgatlioglu, B. Ali, <strong> B. Błasiak</strong>, Irene Burghardt.
