@@ -283,7 +283,7 @@ img {vertical-align: middle;}
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/jcc.26462">EOP</a>
      </cite>
-     method makes the transfer (CT) term of the state-of-the-art charge EFP2 method
+     method makes the transfer (CT) term of the state-of-the-art EFP2 method
      less time-consuming by more than one order of magnitude.
      </div>
 
@@ -327,7 +327,7 @@ img {vertical-align: middle;}
 <script>
 let slideIndex = 1;
 let slideTimer = null;
-const slideInterval = 5000;  // 5 seconds
+const slideInterval = 10000;  // 10 seconds
 
 showSlides(slideIndex);
 startAutoSlides();
