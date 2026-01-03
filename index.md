@@ -157,7 +157,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 8</div>
   <div class="slide-inner">
 
      <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
@@ -183,7 +183,7 @@ img {vertical-align: middle;}
 
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
+  <div class="numbertext">2 / 8</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
@@ -201,7 +201,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">3 / 8</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
@@ -218,7 +218,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">4 / 8</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -235,7 +235,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">5 / 8</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Calmodulin_SolEFP_2018.jpeg" alt="Bio-SolEFP calmodulin" >
      <div class="slide-caption">
@@ -252,9 +252,31 @@ img {vertical-align: middle;}
   </div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">6 / 8</div>
+     <div class="slide-inner">
+     <img width="600" src="/assets/DMST_2018.jpeg" alt="DMST" >
+     <div class="slide-caption">
+     <cite>
+     We introduced electrostatic
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/1.5051995">1-particle reduced density matrix susceptibility tensors</a>, 
+     to quantitatively predict the change of the 1-particle reduced density (1-RDM) of a quantum
+     system induced by arbitrary external electrostatic field perturbation. Our method
+     is very inexpensive since it relies only on simple multiplications between (3x3)-matrices
+     and 3-vectors while providing the susceptibility kernel representation at an arbitrary level of theory. 
+     This method could enhance performance of density embedding schemes
+     for QM/MM calculations with DFT functionals in the future.
+     </cite>
+     </div>
+
+  </div>
+</div>
+
+
+
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">7 / 8</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -269,7 +291,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">8 / 8</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
      <div class="slide-caption">
@@ -299,6 +321,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(5)"></span>
   <span class="dot" onclick="currentSlide(6)"></span>
   <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
 </div>
 
 <script>
