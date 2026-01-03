@@ -255,7 +255,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
      <div class="slide-inner">
-     <img width="600" src="/assets/DMST_2018.jpeg" alt="DMST" >
+     <img width="600" src="/assets/DMST_2018.png" alt="DMST" >
      <div class="slide-caption">
      <cite>
      We introduced electrostatic
