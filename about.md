@@ -33,7 +33,7 @@ Check out these posts:
   {% endfor %}
 </ul>
 
-Also, see our videos about the effective one-electron operator (EOP) 
+Also, see our videos about the effective one-electron potential operator (EOP) 
 method that is an important part
 of our fragmentation strategy:
 
