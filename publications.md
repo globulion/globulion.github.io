@@ -14,7 +14,7 @@ permalink: /publications/
 
 <p align="justify">[23] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics</a></cite>. 
-<em>J. Chem. Phys.</em>, 2025, <strong>XX</strong>, XX (minor revision submitted).</p>
+<em>J. Chem. Phys.</em>, 2025, <strong>XX</strong>, XX (just accepted).</p>
 
 <p align="justify">[22] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0284503">Quantum dynamics at conical intersections in solution. I. Multiplicative neural networks and thermofields</a></cite>. 
