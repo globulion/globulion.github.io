@@ -274,11 +274,13 @@ Frankfurt am Main, Germany.</p>
 
 <h3 id="journal-articles">Journal articles</h3>
 
-<p align="justify"><code class="language-plaintext highlighter-rouge">2025</code>
+<p align="justify"><code class="language-plaintext highlighter-rouge">2026</code>
 
 <p align="justify">[23] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics</a></cite>. 
-<em>J. Chem. Phys.</em>, 2025, <strong>XX</strong>, XX (just accepted).</p>
+<em>J. Chem. Phys.</em>, 2026, <strong>164</strong>, 000000 (just accepted).</p>
+
+<p align="justify"><code class="language-plaintext highlighter-rouge">2025</code>
 
 <p align="justify">[22] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
 <cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0284503">Quantum dynamics at conical intersections in solution. I. Multiplicative neural networks and thermofields</a></cite>. 
