@@ -13,8 +13,8 @@ permalink: /publications/
 <p align="justify"><code class="language-plaintext highlighter-rouge">2026</code>
 
 <p align="justify">[23] <strong>B. Błasiak</strong>, D. Brey, R. Martinazzo, I. Burghardt. 
-<cite><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics</a></cite>. 
-<em>J. Chem. Phys.</em>, 2026, <strong>164</strong>, 000000 (just accepted).</p>
+<cite><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0308440">Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics</a></cite>. 
+<em>J. Chem. Phys.</em>, 2026, <strong>164</strong>, 044124.</p>
 
 <p align="justify"><code class="language-plaintext highlighter-rouge">2025</code>
 

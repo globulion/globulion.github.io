@@ -163,7 +163,7 @@ img {vertical-align: middle;}
      <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
      <div class="slide-caption">
      <cite>
-     <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2505.21302">Inverse Bogoliubov Transformation</a>
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1063/5.0308440">Inverse Bogoliubov Transformation</a>
      </cite>
      in Thermofield Dynamics of open quantum systems 
      is convenient for propagating correlated wavepackets 
