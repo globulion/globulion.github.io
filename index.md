@@ -165,7 +165,13 @@ img {vertical-align: middle;}
      <cite>
      <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.48550/arXiv.2611.01349">Scale-Bridging Collective Modes and Excited States</a>
      </cite>
-     Bla
+     Electronic structure of extended systems such as organic semiconducting crystals
+     is sensitive to collective deformations of the lattice. Our scale-bridging 
+     construction is able to accurately reconstruct the low frequency vibrational
+     modes as well as phonon bands in the quaterthiophene crystal with computational
+     cost several orders of magnitude smaller than the full QM calculation. 
+     It paves the way for ultra-efficient multiscale electronic structure and dynamics
+     of extended systems.
      </div>
 
   </div>
@@ -339,6 +345,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(6)"></span>
   <span class="dot" onclick="currentSlide(7)"></span>
   <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>
 </div>
 
 <script>
