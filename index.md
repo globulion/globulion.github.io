@@ -157,7 +157,24 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 8</div>
+  <div class="numbertext">1 / 9</div>
+  <div class="slide-inner">
+
+     <img width="600" src="/assets/EC_SB_BU_2026_1.png" alt="EC BU 1" >
+     <div class="slide-caption">
+     <cite>
+     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.48550/arXiv.2611.01349">Scale-Bridging Collective Modes and Excited States</a>
+     </cite>
+     Bla
+     </div>
+
+  </div>
+</div>
+
+
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 9</div>
   <div class="slide-inner">
 
      <img width="600" src="/assets/2RDM_iBT_TFD_2025.png" alt="iBT TFD RDMs" >
@@ -183,7 +200,7 @@ img {vertical-align: middle;}
 
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 8</div>
+  <div class="numbertext">3 / 9</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/BioSolEFP.png" alt="Bio-SolEFP" >
@@ -201,7 +218,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 8</div>
+  <div class="numbertext">4 / 9</div>
 
      <div class="slide-inner">
      <img width="600" src="/assets/JCC_2021.jpg" alt="JCC Cover 2021" >
@@ -218,7 +235,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 8</div>
+  <div class="numbertext">5 / 9</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_1_EET.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -235,7 +252,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 8</div>
+  <div class="numbertext">6 / 9</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Calmodulin_SolEFP_2018.jpeg" alt="Bio-SolEFP calmodulin" >
      <div class="slide-caption">
@@ -253,7 +270,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 8</div>
+  <div class="numbertext">7 / 9</div>
      <div class="slide-inner">
      <img width="600" src="/assets/DMST_2018.png" alt="DMST" >
      <div class="slide-caption">
@@ -276,7 +293,7 @@ img {vertical-align: middle;}
 
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 8</div>
+  <div class="numbertext">8 / 9</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Example_2_CT.png" alt="EOPs for EET" >
      <div class="slide-caption">
@@ -291,7 +308,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 8</div>
+  <div class="numbertext">9 / 9</div>
      <div class="slide-inner">
      <img width="600" src="/assets/Workshop.png" alt="Quantum Chemistry Workshop" >
      <div class="slide-caption">
